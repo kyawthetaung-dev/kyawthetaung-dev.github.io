@@ -3,12 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "054d6d9d2b836ba3c92c41c8fac2fe2e",
-"assets/AssetManifest.json": "b36bc3130d05c770bb90cd8ae7d7f8e7",
+const RESOURCES = {"assets/AssetManifest.bin": "66945836702705d6e44c0440d2b9a874",
+"assets/AssetManifest.json": "6df849d730c117645c13a664bb342bda",
 "assets/assets/hi.gif": "cad5918d86b6a7e83f1fb4acead70e4c",
 "assets/assets/photos/kta.png": "aa61e2e27d404819b8d9a4e1c61d7ca7",
+"assets/assets/projects/css.png": "5051f1641e63b4c3ea4ab8e9a0ae3944",
+"assets/assets/projects/html.png": "497e1609993f43ecb028e7449e1653a3",
+"assets/assets/projects/KyawThetaungCV.pdf": "a8f5d37c600234cc534f6bde0c18027e",
 "assets/assets/projects/music.jpg": "35f8a93c94af3f5e96dbaaff2f6e3dc4",
+"assets/assets/projects/One-Page-Personal-Resume-Cover-Letter-Template_Word.zip": "a18f1d5b37e407c1df271dfc83e90bf5",
 "assets/assets/projects/qr.png": "5969e9a84f4cd734aa79e3b93edf236b",
+"assets/assets/projects/web-developer-resume-example.pdf": "f644403edc4555372fa26a4975caf0d0",
 "assets/assets/services/app.png": "9d2da88edb7f550ef24874b306b4ae12",
 "assets/assets/services/rapid.png": "8d3ff9fbdddae77403af46662f011ee8",
 "assets/assets/services/ui.png": "3cf727247752b730a05f51fe0177036f",
@@ -57,9 +62,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "054d6d9d2b836ba3c92c41c8fac2fe2e
 "canvaskit/skwasm.wasm": "1a074e8452fe5e0d02b112e22cdcf455",
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
-"index.html": "e48c656ac99366fdc50fcdd2acaedcd3",
-"/": "e48c656ac99366fdc50fcdd2acaedcd3",
-"main.dart.js": "7b69258ddca4bf699a6d5611640416a8",
+"index.html": "ea4da5772adba7973b862556a2cf0f36",
+"/": "ea4da5772adba7973b862556a2cf0f36",
+"main.dart.js": "9359a51815ac117e4645aee39f9792ef",
 "manifest.json": "35c0bfa2b09b1be5cde7b369f9d73e53",
 "version.json": "a29e8b22a08aa0274b027931eec216c4"};
 // The application shell files that are downloaded before a service worker can
