@@ -65528,7 +65528,7 @@ I(a){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=A.bn(a,k,j).w,h=A.bn(a,k,j).w.a.a
 j=$.vN
 s=$.H_
 s.toString
-i=A.af0(A.D4("assets/photos/kta.png",k,i.a.b*0.5),1)
+i=A.af0(A.D4("assets/photos/kta.png",k,i.a.b),1)
 r=h<1230
 q=r?2:1
 p=r?25:0
